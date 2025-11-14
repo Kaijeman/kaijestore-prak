@@ -9,7 +9,7 @@
             Temukan Konsol & Game yang Anda inginkan di KaijeStore
           </h1>
           <p class="mt-6 text-slate-300 text-sm sm:text-base max-w-xl">
-            Toko Konsol dan Game terpercaya dengan sistem beli langsung dan lelang.
+            Toko Konsol dan Game terpercaya dan terlengkap.<br />
             Dapatkan konsol dan game favorit Anda dengan harga terbaik!
           </p>
 

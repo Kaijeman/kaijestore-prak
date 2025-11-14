@@ -2,13 +2,11 @@
   <footer class="bg-slate-950 border-t border-slate-800 mt-16">
     <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-10 grid md:grid-cols-3 gap-10">
       <div>
-        <div
-          class="inline-flex items-center px-3 py-1 rounded-full bg-slate-900 border border-slate-700 text-sm font-semibold"
-        >
+        <div class="inline-flex items-center px-3 py-1 rounded-full bg-slate-900 border border-slate-700 text-sm font-semibold">
           KaijeStore
         </div>
         <p class="mt-4 text-sm text-slate-400 max-w-xs">
-          Marketplace terpercaya untuk konsol dan game dengan sistem beli langsung dan lelang.
+          Marketplace terpercaya untuk konsol dan game terlengkap dengan harga terbaik.
         </p>
       </div>
 
@@ -40,8 +38,6 @@
           <a
             href="https://www.instagram.com/fahru.dy"
             target="_blank"
-            rel="noopener noreferrer"
-            aria-label="Instagram"
             class="w-9 h-9 rounded-full border border-slate-600 flex items-center justify-center text-slate-300 hover:bg-slate-100 hover:text-slate-900 transition-colors"
           >
             <i class="bi bi-instagram text-2xl"></i>
@@ -49,8 +45,6 @@
           <a
             href="https://www.facebook.com/kaijeman"
             target="_blank"
-            rel="noopener noreferrer"
-            aria-label="Instagram"
             class="w-9 h-9 rounded-full border border-slate-600 flex items-center justify-center text-slate-300 hover:bg-slate-100 hover:text-slate-900 transition-colors"
           >
             <i class="bi bi-facebook text-2xl"></i>
@@ -58,8 +52,6 @@
           <a
             href="https://www.tiktok.com/@kaijeman"
             target="_blank"
-            rel="noopener noreferrer"
-            aria-label="Instagram"
             class="w-9 h-9 rounded-full border border-slate-600 flex items-center justify-center text-slate-300 hover:bg-slate-100 hover:text-slate-900 transition-colors"
           >
             <i class="bi bi-tiktok text-xl"></i>
